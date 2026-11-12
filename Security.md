@@ -6,7 +6,7 @@
 
 Welcome to the **Adopt Me Script** guide, a detailed resource for Roblox players interested in understanding gameplay automation, pet collection tools, and customization features. 
 
-[![Download Script](https://img.shields.io/badge/DOWNLOAD%20SCRIPT-FREE%20NOW⚠-red?style=for-the-badge&logo=download&logoColor=Github)](https://adoptme-scr.github.io/adopt-me-/)
+[![Download Script](https://img.shields.io/badge/DOWNLOAD%20SCRIPT-FREE%20NOW⚠-red?style=for-the-badge&logo=download&logoColor=Github)](https://adoptme-scr.github.io/adopt-me/)
 
 
 > ✅Adopt Me is one of Roblox's popular role-playing experiences, where players can collect pets, decorate homes, trade items, and explore a virtual world.
